@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![todo-app](https://github.com/Meljuetten7/todo-app/assets/116757927/a4937ac5-ad57-4fea-afee-ccdbf21a3dd3)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
